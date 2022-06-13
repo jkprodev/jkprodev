@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jkprodev
+- 👀 I’m interested in all new JavaScript technologies.
+- 🌱 I’m currently learning Kubernetes.
+- 💞️ I’m looking to collaborate on new library development.
+- 📫 Please reach me at jakekakudev@gmail.com
